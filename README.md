@@ -17,7 +17,7 @@ DivMMC is a memory-mapped SD card interface for the ZX Spectrum. It provides aut
 | File | Description |
 |---|---|
 | `divmmc.v` | Top-level Verilog module |
-| `pins.ucf` | Pin location constraints for ISE |
+| `divmmc.ucf` | Pin location constraints for ISE |
 
 ---
 
